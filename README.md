@@ -43,11 +43,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-![Ekran görüntüsü 2025-07-07 094059](https://github.com/user-attachments/assets/226b87e1-bd08-45bd-9a78-a84e91d8ff9a)
-![Ekran görüntüsü 2025-07-07 094158](https://github.com/user-attachments/assets/9df59108-2f82-4d08-a56b-e4af46d1b23a)
+![Ekran görüntüsü 2025-07-07 094059](images/1.png)
+![Ekran görüntüsü 2025-07-07 094158](images/2.png)
 
-![Ekran görüntüsü 2025-07-07 094123](https://github.com/user-attachments/assets/af434f06-6322-49b1-a5ff-de6278635371)
-![Ekran görüntüsü 2025-07-07 094142](https://github.com/user-attachments/assets/f0ded953-7cc3-4650-bd53-7292d5241e00)
+![Ekran görüntüsü 2025-07-07 094123](images/3.png)
+![Ekran görüntüsü 2025-07-07 094142](images/4.png)
 
 
 
